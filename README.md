@@ -1,6 +1,8 @@
 # users_data
 :bust_in_silhouette: :closed_book: Here are two datasets with user data
 
+For viewing .ipynb files it is better to use https://www.reviewnb.com/
+
 ## Data in user_data.csv ##
 
 * <span style="color:green"><b>client</b></span> – идентификатор пользователя
